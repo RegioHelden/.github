@@ -1,1 +1,1 @@
-RegioHelden is an online marketing agency that helps companies become visible and successful in the digital world. With a team of experts in Google Ads, SEO, web design and more, we offer solutions that are precisely tailored to the needs of our customers. Our goal: to surpass ourselves every day and achieve the best results for our customers.
+RegioHelden GitHub organization settings
