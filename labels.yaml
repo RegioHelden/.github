@@ -1,0 +1,31 @@
+---
+
+- name: "bug"
+  color: "ff3348"
+  description: Verified problems that need to be worked on.
+  aliases: []
+
+- name: "feature"
+  description: Changes that add new functionality.
+  color: "6bf0f2"
+  aliases: []
+
+- name: "enhancement"
+  description: Changes that don't add new functionality but improve existing one.
+  color: "6bf0f2"
+  aliases: ["improvement"]
+
+- name: "documentation"
+  description: Documentation improvements that don't touch code.
+  color: "f385ff"
+  aliases: ["docs"]
+
+- name: "backwards-incompatible"
+  description: Backwards-incompatible changes that require a new major release.
+  color: "f7f754"
+  aliases: ["breaking"]
+
+- name: "skip-changelog"
+  description: Changes that must not be listed in the changelog
+  color: "ffce73"
+  aliases: ["no-changelog"]
