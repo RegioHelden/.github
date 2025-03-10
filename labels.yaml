@@ -25,6 +25,11 @@
   color: "f7f754"
   aliases: ["breaking"]
 
+- name: "removal"
+  description: "Removal of a feature or a dependency version support"
+  color: "990211"
+  aliases: ["remove", "removed"]
+
 - name: "skip-changelog"
   description: Changes that must not be listed in the changelog
   color: "ffce73"
