@@ -30,7 +30,7 @@
   color: "990211"
   aliases: ["remove", "removed"]
 
-- name: "infrastucture"
+- name: "infrastructure"
   description: "Changes to the projects build and release infrastructure"
   color: "1fb5bf"
   aliases: []
